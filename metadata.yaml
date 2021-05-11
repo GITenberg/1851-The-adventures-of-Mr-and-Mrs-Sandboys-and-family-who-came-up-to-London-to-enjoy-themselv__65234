@@ -1,5 +1,5 @@
 _repo: 1851-The-adventures-of-Mr-and-Mrs-Sandboys-and-family-who-came-up-to-London-to-enjoy-themselv__65234
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cruikshank, George
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9068'
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: archival
+  image_path: 65234-h/images/cover.jpg
 creator:
   author:
     agent_name: Mayhew, Henry
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48614
     wikipedia: https://en.wikipedia.org/wiki/Henry_Mayhew
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65234#1851-The-adventures-of-Mr-and-Mrs-Sandboys-and-family-who-came-up-to-London-to-enjoy-themselv_
 gutenberg_issued: '2021-05-02'
 gutenberg_type: Text
 identifiers:
